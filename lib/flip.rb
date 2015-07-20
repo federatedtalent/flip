@@ -11,6 +11,7 @@
   abstract_strategy
   controller_filters
   cookie_strategy
+  url_strategy
   database_strategy
   declarable
   declaration_strategy
